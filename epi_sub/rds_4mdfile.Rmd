@@ -1,0 +1,19 @@
+'''
+Files can also be downloaded with:
+  
+  wget https://kkh.bric.ku.dk/Epilepsy19/files/count_matrices.rds
+wget https://kkh.bric.ku.dk/Epilepsy19/files/cms_raw.rds
+wget https://kkh.bric.ku.dk/Epilepsy19/files/con_filt_cells.rds
+wget https://kkh.bric.ku.dk/Epilepsy19/files/con_filt_samples.rds
+
+
+File information:
+  Conos objects and filtered count matrices
+
+con_filt_cells.rds: alignment of all neuronal cells
+con_filt_samples.rds: 3 bad samples removed from the analysis
+count_matrices.rds: filtered count matrices
+
+Additional data:
+  
+  cms_raw.rds: raw count matrices
