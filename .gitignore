@@ -5,3 +5,4 @@ cms_raw.rds
 con_filt_cells.rds
 con_filt_samples.rds
 count_matrices.rds
+.Rproj.user

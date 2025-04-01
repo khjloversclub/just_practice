@@ -1,0 +1,1 @@
+cat GSM8066751_2.fastq

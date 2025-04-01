@@ -49,3 +49,4 @@ Seq('AAAACCCCGGGGTTTTACGTACGTACGTACGT')'
 
 # 출처: https://korbillgates.tistory.com/202 [생물정보학자의 블로그:티스토리] 
 # [바이오파이썬] 5.1.1 SeqIO 모듈로 서열 파일 읽기 - FASTA
+# 모두 et cetra 폴더로 옮김.
